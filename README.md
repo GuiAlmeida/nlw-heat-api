@@ -6,7 +6,7 @@
   <a href="#-licença">Licença</a>
 </p>
 
-## > Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
 
-## > Como executar
+## Como executar
 
 > Obs.: Nesse projeto temos autenticação via OAuth com o GitHub
 
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 
-## > Licença
+## Licença
 
 MIT
 
